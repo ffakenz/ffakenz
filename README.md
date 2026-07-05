@@ -2,7 +2,7 @@
 
 # Hi there, I'm Franco Testagrossa 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Blockchain+/+Smart+Contracts+/+Crypto+Wallets;Software+Craftsman+%26+AI+Enthusiast;The+Boxing+Never+Stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Blockchain+/+Smart+Contracts+/+Crypto+Wallets;Software+Craftsman+%26+AI+Enthusiast;The+Boxing+Never+Stops)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/ffakenz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/ffakenz)
 [![GitHub User's stars](https://img.shields.io/github/stars/ffakenz?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/ffakenz)
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ffakenz&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ffakenz&theme=tokyo-night&hide_border=true&area=true&days=365)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -62,7 +62,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ffakenz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-testagrossa/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franco.testagrossa@gmail.com)
 
 </div>
 
@@ -72,7 +71,7 @@
 
 ```text
 🔭 Focus          Blockchain · Smart Contracts · Crypto Wallets
-⚡ Recently       Core contributor to Hydra — Cardano's layer-2 protocol
+⚡ Recently        Core contributor to Hydra — Cardano's layer-2 protocol
 💬 Ask me about   Scala, Haskell, Rust, distributed & event-driven systems
 🤖 Building with  Claude Code — AI-first engineering
 🥊 Off the clock  Boxing, asados & metal
