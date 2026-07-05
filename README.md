@@ -29,6 +29,7 @@
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 
 *Functional programming, blockchain protocols, and AI-assisted craft* ⚡
 
@@ -50,7 +51,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ffakenz/ffakenz/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ffakenz/ffakenz/output/github-contribution-grid-snake-dark.svg?v=1)
 
 </div>
 
@@ -73,7 +74,7 @@
 🔭 Focus          Blockchain · Smart Contracts · Crypto Wallets
 ⚡ Recently        Core contributor to Hydra — Cardano's layer-2 protocol
 💬 Ask me about   Scala, Haskell, Rust, distributed & event-driven systems
-🤖 Building with  Claude Code — AI-first engineering
+🤖 Building with  Claude Code & Codex — AI-first engineering
 🥊 Off the clock  Boxing, asados & metal
 ```
 
