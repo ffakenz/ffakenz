@@ -81,9 +81,9 @@
 
 <div align="center">
 
-### 💡 Random Dev Quote
+### 💡 Words to Build By
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Well-typed%20programs%20cannot%20go%20wrong&author=Robin%20Milner)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
